@@ -4,7 +4,7 @@
 Saya Jihan Aqilah Hartono dengan NIM 2306827 mengerjakan Tugas Praktikum 5 dalam mata kuliah Desain dan Pemrograman Berorientasi Objek untuk keberkahanNya maka saya tidak melakukan kecurangan seperti yang telah dispesifikasikan. Aamiin.
 
 ## Design
-![tp5 drawio](https://github.com/user-attachments/assets/a512b9be-d067-48e5-8c6c-aa54e2b8baea)
+![tp5 drawio](https://github.com/user-attachments/assets/018213c3-d0d8-441a-a268-2b736324f35a)
 
 ## Penjelasan Design Kelas
 #### **Kelas `Database`**
@@ -49,17 +49,18 @@ Beberapa metode penting dalam kelas ini:
 
 ## Dokumentasi
 ### Tampilkan dialog/prompt error jika masih ada input yang kosong saat insert/update.
-![image](https://github.com/user-attachments/assets/2b78cfb2-d71f-415a-ba46-dbb4eaf1b978)
-![image](https://github.com/user-attachments/assets/1ce4c4c9-174a-4fe6-8156-6408aba68a1d)
+![Screenshot 2025-03-25 025144](https://github.com/user-attachments/assets/c36ee9a8-257b-47bf-b153-2e889044af08)
+![Screenshot 2025-03-25 025216](https://github.com/user-attachments/assets/58ae0371-2796-4eaa-be77-267ce72055f5)
 
 ### Tampilkan dialog/prompt error jika sudah ada NIM yang sama saat insert.
-![image](https://github.com/user-attachments/assets/9ff50509-df15-416a-9a0e-a6af69d2e679)
+![Screenshot 2025-03-25 025256](https://github.com/user-attachments/assets/249b60c4-4497-4337-b99c-37bcecdb2626)
 
 ### Hubungkan semua proses CRUD dengan database.
-![image](https://github.com/user-attachments/assets/07859658-ffa1-42aa-a708-a8bb3d3780f0)
-![image](https://github.com/user-attachments/assets/7e1da232-14e3-4b69-9018-8f0fcc65050b)
-![image](https://github.com/user-attachments/assets/c07a0321-a092-4501-84ed-ba2ee227bf50)
-![image](https://github.com/user-attachments/assets/703e6680-67f6-4129-ba98-30097ced4250)
-![image](https://github.com/user-attachments/assets/6b92852e-081f-4c0a-9d14-9122e9f6947f)
-![image](https://github.com/user-attachments/assets/a76031f2-d038-4937-a950-6fd039be55d3)
+![Screenshot 2025-03-25 025426](https://github.com/user-attachments/assets/499aaf13-1bde-4320-a3af-d847f42f86dd)
+![Screenshot 2025-03-25 025454](https://github.com/user-attachments/assets/6a187ff0-f6b0-4c5c-8cf7-5775c3affa71)
+![Screenshot 2025-03-25 025520](https://github.com/user-attachments/assets/a8b05637-b1f8-425b-a60c-58db77365900)
+![Screenshot 2025-03-25 025549](https://github.com/user-attachments/assets/b386a50c-2630-44e8-b335-f37c6db27eae)
+![Screenshot 2025-03-25 025608](https://github.com/user-attachments/assets/46b01e91-85e4-49b4-8beb-31a5176d93e9)
+![Screenshot 2025-03-25 025647](https://github.com/user-attachments/assets/30ca5971-65e9-42b8-93b2-da26f9d46604)
+
 
